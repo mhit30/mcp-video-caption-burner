@@ -1,6 +1,6 @@
 # MCP Video Caption Burner
 
-This is an [MCP](https://github.com/anthropics/mcp) server that transforms raw videos into captioned videos using three tools:
+This is an [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) server that transforms raw videos into captioned videos using three tools:
 
 1. **Extract audio** from a video file
 2. **Transcribe** the audio into an `.srt` file
@@ -16,7 +16,7 @@ This is an [MCP](https://github.com/anthropics/mcp) server that transforms raw v
 | `transcribe_audio` | Converts audio to an `.srt` caption file      |
 | `burn_captions`    | Burns `.srt` captions into the original video |
 
-Each tool is exposed via [MCP](https://github.com/anthropics/mcp) and callable from an AI agent like Claude.
+Each tool is exposed via [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) and callable from an AI agent like Claude.
 
 ## Setup and Run
 
