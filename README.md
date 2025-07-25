@@ -1,4 +1,4 @@
-# MCP Video Captioenr
+# MCP Video Caption Burner
 
 This is an [MCP](https://github.com/anthropics/mcp) server that transforms raw videos into captioned videos using three tools:
 
